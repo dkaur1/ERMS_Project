@@ -1,0 +1,24 @@
+{
+    "P101": {
+        "project_name": "Inventory System",
+        "assigned_employees": [
+            "E101",
+            "E102"
+        ]
+    },
+    "P102": {
+        "project_name": "Payment Gateway",
+        "assigned_employees": [
+            "E103",
+            "E101"
+        ]
+    },
+    "P103": {
+        "project_name": "Inventory Update",
+        "assigned_employees": []
+    },
+    "P104": {
+        "project_name": "Cloud Migration",
+        "assigned_employees": []
+    }
+}

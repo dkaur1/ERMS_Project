@@ -1,0 +1,4 @@
+employee_id,name,department,salary,joining_date
+E101,Davneet,D01,6000.0,2026-01-11
+E102,Dav,D01,5000.0,2026-01-11
+E103,Garry,D02,6000.0,2026-01-11
