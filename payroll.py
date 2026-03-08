@@ -1,4 +1,4 @@
-from ERMS_Project.employee import load_employees
+from employee import load_employees
 
 
 class Payroll:

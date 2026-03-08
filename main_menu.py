@@ -1,8 +1,8 @@
-import ERMS_Project.department as department
-from ERMS_Project.employee import load_employees
-import ERMS_Project.payroll as payroll
-import ERMS_Project.project as project
-import ERMS_Project.reports as reports
+import department as department
+from employee import load_employees
+import payroll as payroll
+import project as project
+import reports as reports
 import auth_user as auth_user
 
 def main():

@@ -1,6 +1,6 @@
-from ERMS_Project.department import load_departments
-from ERMS_Project.employee import load_employees
-from ERMS_Project.project import load_projects
+from department import load_departments
+from employee import load_employees
+from project import load_projects
 
 
 def total_employees():
